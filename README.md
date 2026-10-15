@@ -248,4 +248,4 @@ This repository serves as the official landing page for Kaspersky Total Security
 **Get the most recent version of Kaspersky Total Security today!**
 
 ---
-**Last updated:** 2026-10-15 06:35:42 UTC
+**Last updated:** 2026-10-15 12:12:26 UTC
